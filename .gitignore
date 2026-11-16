@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Base de datos y datos locales
+*.sqlite3
+*.db
+db_data/
+
+# Archivos de entorno y credenciales
+.env
+.env.local
+
+# Logs
+*.log
+cookies.txt
+
+# IDEs y Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
